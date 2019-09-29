@@ -4,7 +4,7 @@
 #include "WProgram.h"
 #endif
 
-#include <ESP8266_LEDs.h>
+#include <NodeMCU_LED_Handler.h>
 #include <Ticker.h>  //Ticker Library
 
 const uint16_t FLASH_TIME_PERIOD = 2000; // 2000ms per flash cycle
